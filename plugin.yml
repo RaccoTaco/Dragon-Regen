@@ -1,0 +1,5 @@
+name: DragonSpawner
+main: raccotaco.spawner.DragonSpawner
+version: 0.1
+author: [RaccoTaco]
+description: Spawn Ender Dragon

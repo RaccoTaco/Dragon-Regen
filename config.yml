@@ -1,0 +1,17 @@
+# World Name
+world: Dragon_World
+
+# Next Repsawn Time DO NOT EDIT 
+respawn: NONE
+ 
+# Minimum and Maximum Spawn time (days)
+min-time-in-days: 3
+max-time-in-days: 6
+ 
+# Different dragons? OP Endermen?
+op-dragon: true
+op-endermen: true
+ 
+# Health of Dragon (100 = normal) - in range of min and max percent
+dragon-min-health: 150
+dragon-max-health: 350
